@@ -1,0 +1,25 @@
+{
+  "name": "botwa",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/afiqbaik/Botwa.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/afiqbaik/Botwa/issues"
+  },
+  "homepage": "https://github.com/afiqbaik/Botwa#readme",
+  "dependencies": {
+    "@japofc/baileys": "^2.4.5"
+  }
+}
